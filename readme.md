@@ -20,7 +20,7 @@ MRI data with real artifacts:
 
 Plain text:
 
-> Y. Zhang, X. Mao, J. Wang and W. Liu, "DEMO: A Flexible Deartifacting Module for Compressed Sensing MRI," in *IEEE Journal of Selected Topics in Signal Processing*, doi: 10.1109/JSTSP.2022.3158057.
+> Y. Zhang, X. Mao, J. Wang and W. Liu, "DEMO: A Flexible Deartifacting Module for Compressed Sensing MRI," in IEEE Journal of Selected Topics in Signal Processing, vol. 16, no. 4, pp. 725-736, June 2022, doi: 10.1109/JSTSP.2022.3158057.
 
 Bibtex:
 
