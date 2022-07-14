@@ -30,9 +30,9 @@ Bibtex:
   journal={IEEE Journal of Selected Topics in Signal Processing}, 
   title={DEMO: A Flexible Deartifacting Module for Compressed Sensing MRI}, 
   year={2022},
-  volume={},
-  number={},
-  pages={1-1},
+  volume={16},
+  number={4},
+  pages={725-736},
   doi={10.1109/JSTSP.2022.3158057}
 }
 ```
